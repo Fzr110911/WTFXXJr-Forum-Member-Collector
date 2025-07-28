@@ -10,4 +10,5 @@ WTFXXXJr论坛用户获取工具2.0
 7.保留用户名搜索
 8.新增跳转用户论坛主页功能，点击选中，双击跳转
 9.增加工具图标及名称
+
 <img width="640" height="640" alt="1" src="https://github.com/user-attachments/assets/f286077b-095e-4b0b-a8ad-6e3013485e38" />
