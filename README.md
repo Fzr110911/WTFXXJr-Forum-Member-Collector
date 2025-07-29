@@ -1,6 +1,6 @@
 # WTFXXXJr论坛用户获取工具WTFXXJrForumMemberCollector（WFMC）
 这是一个用于获取WTFXXJr论坛用户数据的工具
-获取到的用户头像保存在**\assets\avatar**中
+获取到的用户头像保存在**WFMC运行的目录/assets/avatar**中
 
 <img width="640" height="640" alt="1" src="https://github.com/user-attachments/assets/f286077b-095e-4b0b-a8ad-6e3013485e38" />
 
