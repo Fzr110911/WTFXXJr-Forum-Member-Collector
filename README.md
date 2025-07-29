@@ -1,14 +1,24 @@
-# WTFXXJrForumMemberCollector（WFMC）
-WTFXXXJr论坛用户获取工具2.0
-更新日志:
-1.增加gui，删除了生成网页功能，将获取到的数据直接由工具内置界面显示
-2.现已将文件打包为.exe可执行文件，windows电脑下载后可一键运行，无需安装Python环境
-3.新增用户注册时间正负序排列切换按钮(仅供参考)
-4.新增用户发帖数量正负序排列切换按钮
-5.支持用户自行输入cookie，并且可以本地保存cookie信息
-6.保留用户头像本段保存功能
-7.保留用户名搜索
-8.新增跳转用户论坛主页功能，点击选中，双击跳转
-9.增加工具图标及名称
+# WTFXXXJr论坛用户获取工具WTFXXJrForumMemberCollector（WFMC）
+这是一个用于获取WTFXXJr论坛用户数据的工具
 
 <img width="640" height="640" alt="1" src="https://github.com/user-attachments/assets/f286077b-095e-4b0b-a8ad-6e3013485e38" />
+
+# WFMC使用教程
+1.打开WFMC工具
+2.输入论坛的Cookie
+3.点击保存Cookie并点击更新数据
+4.稍微等待即可看到用户数据
+
+# Cookie获取教程
+**注意:本篇教程以Microsoft EDGE浏览器为例，其他浏览器请自行判断**
+1.进入[WTFXXJr论坛主页](https://bbs.wtfxxjr.top/)
+2.点击右上角登录
+**如果已登录请跳转第5步**
+3.点击使用[皮肤站](https://auth.wtfxxjr.top/)登录
+4.在弹出的二级窗口中确认登录
+5.按下键盘中的"F12"或者鼠标右键跳出二级菜单后点击"检查"
+6.在弹出的侧栏中点击"网络"
+7.点进"网络"后随便点击一条帖子
+8.点击在侧栏中出现的第一条数据并向下滑找到Cookie项
+9.长按鼠标左键并拖动至Cookie项最后一个字符(不包括"Cookie"字符)
+10.点击鼠标右键，在弹出的二级菜单中点击"复制"即可成功复制Cookie信息
